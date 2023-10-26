@@ -1,0 +1,10 @@
+
+
+Personal Questions -
+1. Which artist's tracks are featured in the most playlists? Provide the artist name and the number of playlists their tracks are included in.
+
+2. Can you find the average time it takes for customers to make their second purchase (in days) after their initial purchase? Please provide the average time in days.
+
+3. Identify the top 10 selling albums (based on the number of tracks sold). List the album title, artist, and the total number of tracks sold for each of the top 10 albums.
+
+4. Find the most popular media type in the database. Which media type is used for the highest number of tracks? List the media type name and the number of tracks associated with it.
